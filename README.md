@@ -1,4 +1,4 @@
-## Project Overview
+## Face Mask Detection
 This is a **binary classification project** to detect whether a person is wearing a mask or not using a custom CNN architecture, followed by real-time video detection.
 
 ## Phase 1: Data Preprocessing (1.0 data preprocessing.pdf)
